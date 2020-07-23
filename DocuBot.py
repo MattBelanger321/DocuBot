@@ -13,4 +13,4 @@ async def on_message(message):
 async def on_ready():
     print(client.user.name)
 
-client.run('NzM1NzcxNDI5MzY2MjY3OTM0.XxlcgA.dayt4qnjzqhy9_m0dV7GQeRDW-'+'o')
+client.run('NzM1NzcxNDI5MzY2MjY3OTM0.XxlcgA.dayt4qnjzqhy9_m0dV7GQeRDW-'+chr(111))
