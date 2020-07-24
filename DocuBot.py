@@ -19,7 +19,7 @@ async def on_message(message):
             'AVAILABLE COMMANDS: \n' +
             '1: ' + special + 'help\n' +
             '2: ' + special + 'me\n' +
-            '3: ' + special + 'CSSPROP <property name>'
+            '3: ' + special + 'CSSPROP <property name>\n'
             '4: ' + special + 'CDOCS <function name>\n' +
             '5: ' + special + 'LINCOM  <command name>\n' +
             '6: ' + special + 'HTML  <tag name> (no brackets)\n' +
